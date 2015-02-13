@@ -1,7 +1,9 @@
 # PongGame
 
 PongGame is a clone of the classic game called [Pong](http://en.wikipedia.org/wiki/Pong).
+
 In this case i've written it in Python with the PyGame library and i wanted it to be really simple and no longer than 200 lines of code.
+
 Just made it for fun and to learn how to use PyGame library, i hope someone can find it useful too.
 
 # Features
@@ -24,8 +26,11 @@ I wanted to leave this things our so far so the code dont get longer and more co
 # How to play
 
 Player 1 use the keys "w" and "s" to move
+
 Player 2 use arrows keys to move
+
 Just like the old classic, you must not let the ball hit the border behind you
+
 After one player wins, the game restarts until you use the "Escape" key or just close the window
 
 # License
